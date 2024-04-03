@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@0,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 8vmin;
+}
+
+.bold {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.medium {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
